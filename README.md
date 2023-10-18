@@ -252,6 +252,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [11st-Starter-Kit](https://github.com/stefanfrede/11st-starter-kit) - 11ty, powered by Vite with Tailwind CSS and Alpine.js.
 - [chrome-ext-template-preact-windi-vite](https://github.com/fell-lucas/chrome-ext-template-preact-windi-vite) - Preact, Windi CSS, TypeScript, Prettier, ESLint, GitHub Actions and Chrome Extension Manifest v3.
 - [vite-vanilla-ts-knockout](https://github.com/zeekrey/vite-vanilla-ts-knockout) - Starter template for Knockout.js, TypeScript.
+- [vite-template-lib-ts](https://github.com/tower1229/vite-template-lib-ts) - Starter template for lib develop, with TypeScript.
 
 ## Plugins
 
